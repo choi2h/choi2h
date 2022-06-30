@@ -1,33 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CA6BF7&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=%08Hi+there%2C+I'm+ChoiIHwa!;I'm+currently+working+on+server+developer.)](https://git.io/typing-svg)
-  
-  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there%2C+I'm+ChoiIHwa!;I'm+working+as+a+server+developer.)](https://git.io/typing-svg)  
+
+안녕하세요. 백엔드 개발자 최이화입니다.  
+시각디자인을 배우던 도중 접하게 된 HTML/CSS가 재밌어서 개발을 배우게 되었습니다.  
+이것저것 도전해 본 결과 JAVA라는 언어가 가장 흥미롭게 다가왔으며 현재 JAVA언어를 이용한 서버개발자로 일하고 있습니다.  
+
+<br/>
+
 ## SKILL✨
--------------
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-#003545?style=flat&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   
-  
-  
+<br/>   
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi2h&show_icons=true&theme=aura)
 
-
-<!--
-**choi2h/choi2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
