@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there%2C+I'm+ChoiIHwa!;I'm+working+as+a+server+developer.)](https://git.io/typing-svg)  
 
-안녕하세요. 백엔드 개발자 최이화입니다.  
-시각디자인을 배우던 도중 접하게 된 HTML/CSS가 재밌어서 개발을 배우게 되었습니다.  
-이것저것 도전해 본 결과 JAVA라는 언어가 가장 흥미롭게 다가왔으며 현재 JAVA언어를 이용한 서버개발자로 일하고 있습니다.  
+안녕하세요. 서버개발자로 일하고 있는 최이화입니다.
 
 <br/>
 
